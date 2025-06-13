@@ -3,9 +3,11 @@ IA-Sim-SRI-2024-2025 es el repositorio hub del curso conjunto de Inteligencia Ar
 
 ## Template para crear los issues
 
-Proyecto: Nombre del proyecto
+Proyecto
+<Nombre del proyecto>
 
-Repositorio: https://github.com/usuario/proyecto
+Repositorio
+<link del repositorio>
 
 Integrantes:
 - Nombre: ..., Apellidos: ..., Grupo: ..., github: ..., telegram: ... (ejemplo: Nombre: Juan Manuel, Apellidos: León García, Grupo: 311, github: @jmlgkawai, telegram: @elcoso
